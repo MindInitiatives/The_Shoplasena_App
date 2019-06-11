@@ -17,7 +17,7 @@
 - [CircleCI](https://circleci.com/) - is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub.
 
 ## Screenshots
-![MainActivity](https://github.com/MindInitiatives/ShopLasena/blob/master/1.png) ![SignIn](https://github.com/MindInitiatives/ShopLasena/Shoplasena_screenshots/blob/master/2.png) ![SignUp](https://github.com/MindInitiatives/ShopLasena/Shoplasena_screenshots/blob/master/3.png) ![Home](https://github.com/MindInitiatives/ShopLasena/Shoplasena_screenshots/blob/master/4.png) ![Navigation](https://github.com/MindInitiatives/ShopLasena/Shoplasena_screenshots/blob/master/5.png) ![OrderSummary](https://github.com/MindInitiatives/ShopLasena/Shoplasena_screenshots/blob/master/6.png) ![PlaceOrder](https://github.com/MindInitiatives/ShopLasena/Shoplasena_screenshots/blob/master/7.png)
+![MainActivity](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/1.png) ![SignIn](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/2.png) ![SignUp](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/3.png) ![Home](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/4.png) ![Navigation](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/5.png) ![OrderSummary](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/6.png) ![PlaceOrder](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/7.png)
 
 ## Features
 - [RecyclerView adapters]
@@ -28,6 +28,9 @@
 - [FirebaseUI]
 - [View Flipper]
 - [Material designs]
+
+## Source code
+- [dm @ stevyn258@yahoo.com]
 
 ## Author
 
