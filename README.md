@@ -1,6 +1,8 @@
 # ShopLasena
 ![ShopLasena Logo](https://github.com/MindInitiatives/ShopLasena/blob/master/app/src/main/res/drawable/icon.png)
 
+[![CircleCI](https://circleci.com/gh/MindInitiatives/ShopLasena/tree/master.svg?style=shield)](https://circleci.com/gh/MindInitiatives/ShopLasena/tree/master)
+
 > ShopLasena is the official app made for Lasena Artesian Mineral water company ltd, it's an online store that enable customers order their products, pay and get it delivered. It solves the problem of having to wait for a longtime to Order a product or having to wait for your payment to get approved before it can be shipped.
 
 ## Technologies
@@ -17,7 +19,7 @@
 - [CircleCI](https://circleci.com/) - is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub.
 
 ## Screenshots
-![MainActivity](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/1.png) ![SignIn](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/2.png) ![SignUp](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/3.png) ![Home](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/4.png) ![Navigation](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/5.png) ![OrderSummary](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/6.png) ![PlaceOrder](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/7.png)
+![MainActivity](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/1.png) ![SignIn](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/2.png) ![SignUp](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/3.png) ![Home](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/4.png) ![Navigation](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/5.png) ![OrderSummary](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/6.png) ![PlaceOrder](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/7.png) ![Shop](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/8.png) ![ShopMenu](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/9.png) ![BottleList](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/10.png) ![BottleSearch](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/11.png) ![JarList](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/12.png) ![PackList](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/13.png) ![WaterDetail](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/14.png) ![AppRating](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/15.png) ![Cart](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/16.png) ![OrderStatus](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/Shoplasena_screenshots/17.png)
 
 ## Features
 - [RecyclerView adapters]
