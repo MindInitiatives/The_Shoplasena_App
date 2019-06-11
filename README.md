@@ -1,5 +1,5 @@
 # ShopLasena
-![ShopLasena Logo](https://github.com/MindInitiatives/ShopLasena/blob/master/app/src/main/res/drawable/icon.png)
+![ShopLasena Logo](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/icon.png)
 
 [![CircleCI](https://circleci.com/gh/MindInitiatives/ShopLasena/tree/master.svg?style=shield)](https://circleci.com/gh/MindInitiatives/ShopLasena/tree/master)
 
