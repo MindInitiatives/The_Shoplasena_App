@@ -28,6 +28,7 @@
 - [Facebook share(facebook SDK)]
 - [custom fonts]
 - [Notification manager]
+- [PayPal Payment Integration]
 - [Rating system]
 - [FirebaseUI]
 - [View Flipper]
