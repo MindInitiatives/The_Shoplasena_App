@@ -1,7 +1,7 @@
 # ShopLasena
 ![ShopLasena Logo](https://github.com/MindInitiatives/The_Shoplasena_App/blob/master/icon.png)
 
-[![CircleCI](https://circleci.com/gh/MindInitiatives/ShopLasena.svg?style=svg&circle-token=fc54d4483a6eb64e90488b0f9c041dce6084e4be)](https://circleci.com/gh/MindInitiatives/ShopLasena)
+[![CircleCI](https://circleci.com/gh/MindInitiatives/ShopLasena.svg?style=shield&circle-token=fc54d4483a6eb64e90488b0f9c041dce6084e4be)](https://circleci.com/gh/MindInitiatives/ShopLasena)
 
 > ShopLasena is the official app made for Lasena Artesian Mineral water company ltd, it's an online store that enable customers order their products, pay and get it delivered. It solves the problem of having to wait for a longtime to Order a product or having to wait for your payment to get approved before it can be shipped.
 
